@@ -1,0 +1,7 @@
+PROGRAMA "alternativo":
+INICIO
+a = 2
+b = 10
+k = a + b                
+RES = k 
+FIM
